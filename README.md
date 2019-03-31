@@ -1,3 +1,5 @@
+[![CNCF Napoli](./logo/cncf-napoli.png)](https://www.meetup.com/cncfnapoli/)
+
 # CNCF Napoli : meetup content and meterial
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cncfnapoli.svg?style=social&label=Follow&style=for-the-badge)](https://twitter.com/cncfnapoli)
