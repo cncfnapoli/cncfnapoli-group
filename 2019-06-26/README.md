@@ -1,6 +1,6 @@
 # Meetup 26 June 2019, From development to production with Docker, Kubernetes, and Azure
 
-[![From development to production with Docker, Kubernetes, and Azure](banner.png)]
+![From development to production with Docker, Kubernetes, and Azure](banner.png)
 
 Following the material from the **"From development to production with Docker, Kubernetes, and Azure"** [meetup](https://www.meetup.com/cncfnapoli/events/261921731/) on 26 June 2019 by [Michele Aponte](https://twitter.com/apomic80), CEO & CTO @ Blexin S.r.l.
 

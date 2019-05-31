@@ -1,6 +1,6 @@
 # Meetup 17 April 2019, Kubernetes: from zero to hero
 
-[![Kubernetes: from zero to hero](banner.png)]
+![Kubernetes: from zero to hero](banner.png)
 
 Following the material from the **"Kubernetes: from zero to hero"** [meetup](https://www.meetup.com/cncfnapoli/events/259894125/) on 17 April 2019 by [Fabio Sforza](https://twitter.com/fabio_sforza), DevOps Engineer @ Relatech S.p.a.
 
