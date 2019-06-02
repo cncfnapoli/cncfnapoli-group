@@ -1,8 +1,8 @@
-# Meetup 17 April 2019, Kubernetes: from zero to hero
+# Kubernetes: from zero to hero - April 17, 2019
 
 ![Kubernetes: from zero to hero](banner.png)
 
-Following the material from the **"Kubernetes: from zero to hero"** [meetup](https://www.meetup.com/cncfnapoli/events/259894125/) on 17 April 2019 by [Fabio Sforza](https://twitter.com/fabio_sforza), DevOps Engineer @ Relatech S.p.a.
+Following the material from the **"Kubernetes: from zero to hero"** [meetup](https://www.meetup.com/cncfnapoli/events/259894125/) on April 17, 2019 by [Fabio Sforza](https://twitter.com/fabio_sforza), DevOps Engineer @ Relatech S.p.a.
 
 Kubernetes has now become the de facto standard for deploying containerized applications at scale in private, public and hybrid cloud environments. During this session, we will introduce its main concepts and explain them, step by step, by practical examples. The talk will guide developers to learn all the best practices to perform a production-ready deployment for a Java Spring Boot based microservice and a MySQL database.
 
