@@ -2,7 +2,7 @@
 
 ![Going serverless with Knative: the future is already here](banner.png)
 
-Following the material from the **"Going serverless with Knative: the future is already here"** [meetup](https://www.meetup.com/cncfnapoli/events/261921731/) on October 9, 2019 by [Nicola Ferraro](https://twitter.com/ni_ferraro0), Principal Software Engineer @ Red Hat.
+Following the material from the **"Going serverless with Knative: the future is already here"** [meetup](https://www.meetup.com/cncfnapoli/events/264641751/) on October 9, 2019 by [Nicola Ferraro](https://twitter.com/ni_ferraro0), Principal Software Engineer @ Red Hat.
 
 Serverless technologies offer a new way to deal with infrastructure in the cloud, with a different approach that affects both technical development and costs. Knative, an open source project started in mid 2018 and now reaching GA, is emerging as a foundation for adding serverless capabilities on top of Kubernetes. The future seems bright, but companies still struggle to find a path for adopting such technologies and integrating them with their existing applications.
 
