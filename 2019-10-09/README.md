@@ -11,5 +11,5 @@ With the help of a demo, we’ll explore the most important features of Knative,
 
 We’ll see where such features are helpful and how it’s possible to connect existing applications and cloud services to Knative to leverage the new possibilities. In this context, we’ll present “Camel K”, a lightweight integration platform “born on Kubernetes, with serverless superpowers”, that brings the legendary integration patterns of Apache Camel into the Knative world.
 
-* slides
-* demo
+* [slides](going-serverless-with-knative.pdf)
+* [demo](https://github.com/nicolaferraro/knative-demo)
