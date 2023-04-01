@@ -2,7 +2,7 @@
 
 # CNCF Napoli : Community group content and material
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cncfnapoli.svg?style=social&label=Follow&style=for-the-badge)](https://twitter.com/cncfnapoli)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cncfnapoli?style=social)](https://twitter.com/cncfnapoli)
 
 Official repository with content and material of all the meetups organized by the [*Cloud Native Computing Napoli*](https://community.cncf.io/napoli/) group which is recognized as one of the official CNCF community groups.
 
