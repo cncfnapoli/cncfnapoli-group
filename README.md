@@ -1,10 +1,10 @@
 [![CNCF Napoli](./logo/cncf-napoli.png)](https://community.cncf.io/napoli/)
 
-# CNCF Napoli : Community group content and material
+# Cloud Native Computing Foundation Napoli : Community group content and material
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cncfnapoli?style=social)](https://twitter.com/cncfnapoli)
 
-Official repository with content and material of all the meetups organized by the [*Cloud Native Computing Napoli*](https://community.cncf.io/napoli/) group which is recognized as one of the official CNCF community groups.
+Repository with content and material of all the meetups organized by the official [*Cloud Native Computing Foundation Napoli*](https://community.cncf.io/napoli/) group.
 
 * 16/05/2023 - **How to extend Kubernetes: please welcome the operator pattern!** [meetup](https://community.cncf.io/events/details/cncf-napoli-presents-how-to-extend-kubernetes-please-welcome-the-operator-pattern/) [material](2023-05-16)
 * 04/03/2020 - **Microservice - Patterns and AntiPatterns for designing Cloud Native Applications** [meetup](https://community.cncf.io/events/details/cncf-napoli-presents-microservice-patterns-and-antipatterns-for-designing-cloud-native-applications/) [material](2020-03-04)
