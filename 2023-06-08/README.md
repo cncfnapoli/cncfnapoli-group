@@ -1,4 +1,4 @@
-# How to extend Kubernetes: please welcome the operator pattern! - May 16, 2023
+# How to extend Kubernetes: please welcome the operator pattern! - June 8, 2023
 
 ![How to extend Kubernetes: please welcome the operator pattern!](banner.png)
 
