@@ -2,7 +2,7 @@
 
 ![How to extend Kubernetes: please welcome the operator pattern!](banner.png)
 
-Following the material from the **"How to extend Kubernetes: please welcome the operator pattern!"** [meetup](https://community.cncf.io/events/details/cncf-napoli-presents-how-to-extend-kubernetes-please-welcome-the-operator-pattern/) on May 16, 2023 by [Paolo Patierno](https://twitter.com/ppatierno), Senior Principal Software Engineer @ Red Hat, [Domenico Francesco Bruscino](https://twitter.com/bruscinodf) Senior Software Engineer @ Red Hat
+Following the material from the **"How to extend Kubernetes: please welcome the operator pattern!"** [meetup](https://community.cncf.io/events/details/cncf-napoli-presents-how-to-extend-kubernetes-please-welcome-the-operator-pattern/) on June 8, 2023 by [Paolo Patierno](https://twitter.com/ppatierno), Senior Principal Software Engineer @ Red Hat, [Domenico Francesco Bruscino](https://twitter.com/bruscinodf) Senior Software Engineer @ Red Hat
 
 Do you really know how Kubernetes handles your workloads? What's the way it provides elasticity, reliability, scalability and more? How can you extend its built-in features by deploying custom workloads? Join us to learn more about the "operator" pattern which will enable you to move your applications to the next level!
 
