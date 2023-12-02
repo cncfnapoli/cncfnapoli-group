@@ -8,5 +8,6 @@ Deploying Apache Kafka on Kubernetes is one great way to have production grade c
 
 In this session, we will demonstrate the simplicity of deploying an Apache Kafka cluster on Kubernetes using the Strimzi operator, an open source CNCF project. It allows for a seamless integration with Kubernetes and provides a native experience when managing Kafka on it. From deployment to security, from upgrades to authentication and authorization, you will see how an operator can do everything for you.
 
-* [slides]()
-* [demo]()
+* [slides](apache_kafka_on_kubernetes_with_strimzi.pdf)
+* [demo](https://github.com/ShubhamRwt/CNCF-Napoli-meetup)
+* [video](https://www.youtube.com/watch?v=2HnbCJ7Jblw)
