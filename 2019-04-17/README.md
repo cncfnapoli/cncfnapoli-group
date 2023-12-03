@@ -8,3 +8,4 @@ Kubernetes has now become the de facto standard for deploying containerized appl
 
 * [slides](kubernetes-from-zero-to-hero.pdf)
 * [demo](https://github.com/fsforza/kubernetes-demo)
+* [video](https://www.youtube.com/watch?v=e8PGyHAxj8w)

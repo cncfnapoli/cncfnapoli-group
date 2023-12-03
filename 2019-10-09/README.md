@@ -13,3 +13,4 @@ We’ll see where such features are helpful and how it’s possible to connect e
 
 * [slides](going-serverless-with-knative.pdf)
 * [demo](https://github.com/nicolaferraro/knative-demo)
+* [video](https://www.youtube.com/watch?v=VFiqinaInK8)
